@@ -1,7 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-core/src/main/resources/
 core/src/test/
-web/src/main/resources/
 web/src/test/
 /jenkinsDemo.iml
 /.idea/
